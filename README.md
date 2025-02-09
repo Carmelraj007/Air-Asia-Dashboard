@@ -55,6 +55,6 @@ This dashboard is useful for:
 
 ## 📩 Contact
 For any questions or suggestions, feel free to reach out!
-**Email**: [carmelraj2207@gmail.com]
+-**Email**: [carmelraj2207@gmail.com]
 - **LinkedIn**: [CarmelrajC](https://www.linkedin.com/in/carmelrajc/)
 - **GitHub**: [Carmelraj](https://github.com/Carmelraj007)
